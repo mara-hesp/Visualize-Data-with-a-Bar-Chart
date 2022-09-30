@@ -1,0 +1,20 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#title {
+    text-align: center;
+}
+
+.bar {
+    fill: rgb(23, 101, 202);
+}
+
+.bar:hover {
+    fill: #eee;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
